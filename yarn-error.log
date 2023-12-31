@@ -1,8 +1,8 @@
 Arguments: 
-  /usr/local/bin/node /Users/rocksvishu/.yarn/bin/yarn.js add react-native-elemenst
+  /usr/local/bin/node /Users/fritz/.yarn/bin/yarn.js add react-native-elemenst
 
 PATH: 
-  /usr/local/opt/ruby/bin:/Users/rocksvishu/.yarn/bin:/Users/rocksvishu/.config/yarn/global/node_modules/.bin:/tools/bin:/tools:/platform-tools:”/Library/TeX/texbin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/Library/Apple/usr/bin”
+C:\Users\fritz\Downloads\PRO-C70-ProjectTemplate-main.zip\PRO-C70-ProjectTemplate-main
 
 Yarn version: 
   1.22.5
@@ -15,7 +15,7 @@ Platform:
 
 Trace: 
   Error: https://registry.yarnpkg.com/react-native-elemenst: Not found
-      at Request.params.callback [as _callback] (/Users/rocksvishu/.yarn/lib/cli.js:66988:18)
+      at Request.params.callback [as _callback] (/Users/fritz/.yarn/lib/cli.js:66988:18)
       at Request.self.callback (/Users/rocksvishu/.yarn/lib/cli.js:140749:22)
       at Request.emit (events.js:315:20)
       at Request.<anonymous> (/Users/rocksvishu/.yarn/lib/cli.js:141721:10)
