@@ -24,7 +24,7 @@ export default class BottomTabNavigator extends Component {
                 iconName = "search";
               }
 
-              // You can return any component that you like here!
+           
               return (
                 <Ionicons
                   name={iconName}
